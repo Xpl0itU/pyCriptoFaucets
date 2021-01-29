@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 Just run the following command
 ```sh
-python3 bot.py
+python bot.py
 ```
 
 ## Planned features:
