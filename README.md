@@ -52,4 +52,8 @@ Just run the following command
 python3 bot.py
 ```
 
+## Planned features:
+* Web UI
+* Freebitco.in support
+
 Inspired by [https://github.com/renowator/CryptosFaucets_Bot](https://github.com/renowator/CryptosFaucets_Bot)
